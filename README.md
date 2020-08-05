@@ -18,10 +18,10 @@ This file will walk you through setting up the BlueROV Graphical User Interface 
 1. The rqt_multiplot plugin must be installed for the interface to work
 
 Installation 
-  
-  --$sudo apt-get update
-  --$sudo apt-get install ros-DISTRO-rqt-multiplot
- 
+  ```shell 
+  $sudo apt-get update
+  $sudo apt-get install ros-DISTRO-rqt-multiplot
+  ```
 2. Open roscore
 
   $roscore
