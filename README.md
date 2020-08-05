@@ -23,22 +23,23 @@ Installation
   $sudo apt-get install ros-DISTRO-rqt-multiplot
   ```
 2. Open roscore
-
+ ```shell
   $roscore
-
+ ```
 3. Open rqt_gui
-
+ ```shell
   $rosrun rqt_gui rqt_gui
-
+ ```
 4. Import perspective file
-
+ ```shell
   Click on the perspectievs drop down menu
   Click Import
   Navigate to the blueROV_gui.perspective file in this folder
   Open
-  
+   ```
 5. Import the multiplot .xml file
-
+ ```shell
   Click on the "Open Configuration" tool under the rqt_multiplot plugin
   Navigate to the "rqt_multiplot.xml" file in this folder
   Open
+ ```
