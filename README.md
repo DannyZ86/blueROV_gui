@@ -4,6 +4,8 @@
 
 **Author(s):** Daniel Zatko, Anton Danylenko
 
+**Mentor(s):** Brendan Englot, Jake McConnell
+
 **Maintainer:** Daniel Zatko <dzatko@stevens.edu>
 
 **Operating system(s):** Ubuntu Linux
