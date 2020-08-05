@@ -12,6 +12,9 @@
 
 
 ## Content
+This BlueROV GUI was developed as part of research conducted in the Maritime Security Center’s 2020 Summer Research Institute. 
+http://www.stevens.edu/SummerResearchInstitute
+
 “This material is based upon work supported by the U.S. Department of Homeland Security under Cooperative Agreement No. 2014-ST-061-ML0001. The views and conclusions contained in this document are those of the authors and should not be interpreted as necessarily representing the official policies, either expressed or implied, of the U.S. Department of Homeland Security.”
 
 
